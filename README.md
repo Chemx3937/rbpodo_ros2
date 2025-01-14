@@ -1,3 +1,8 @@
+# For Shelf_Picking
+This is customized by CheminAhn for shelf_picking project using RB10.
+-> Only Add rb10_1300e_e.urdf
+
+---
 # rbpodo_ros2
 
 > :warning: **IMPORTANT WARNING**: This software is under active development. DO NOT USE in production to avoid potential instability.
